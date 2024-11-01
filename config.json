@@ -1,0 +1,18 @@
+
+{
+    "botToken": "MTA3OTM0NzgwNTA3MzcxOTMyNg.GIl869.jGXi3evo4DnDdPRPwJBk9t5ZleHjCaQ79fsjjk",
+    "suggestionChannelId": "1294333969940090962",
+    "adminRoleId": "1202285196142182422",
+    "guildId": "1129412049152266250",
+    "imgur_client_id": "adad39a80e73774",
+    "embed": {
+      "color": "#0388fc",
+      "title": "💡 Pending AloraMC Suggestion",
+      "footer": "AloraMC",
+      "timestamp": true,
+      "footer_icon": "https://i.imgur.com/fhRVDgm.png",
+      "reject_color": "#ff3f2a",
+      "accept_color": "#70fe40",
+      "implement_color": "#4044fe"
+    }
+  }
